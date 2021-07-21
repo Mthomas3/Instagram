@@ -6,7 +6,7 @@
 
 ### 👀 Story
 
-The story of InstagramLike. While it is summer, vacation and relaxing. I decided to challenge myself, and try to clone Instagram with a limited time of and only 3 hours. The goal was to get as close as possible and to do as much features as possible. For this challenge, I started with nothing except a good understanding of the Instagram UI. Obviously, the application is far from done but it was FUN.
+While it is summer, vacation and relaxing I had an idea to challenge myself. The challenge was to create a clone of Instagram in 3 hours. Obviously to goal here is not to finish the app or to show the best iOS practices, but it was to see how quick I could go. Here is the result of the challenge, I managed to have the feed display with stories on top. On the stories, the pictures of the users are being fetch from a back server that has been set during the challenge. On top of that you can view a story of a user by clicking on their stories. This challenge was fun, and I will probably do the swiftUI version of it soon!!!
 
 ### 👀 Usage
 
@@ -14,9 +14,9 @@ If you are really interested with the result and want to clone it, you can just 
 
 ### 🔨  Architecture
 
-Of course with a limited time of 3 hours, the architecture and good practices wasn't my priority.
-However, the application does not have any mocked data and the data of the stories, images, profile pictures etc.. is being fetch from a server!
-I used the website https://jsonbin.io to make the data from the back-end it's powerful, fast and took me 3 secondes to get it working 🎉 (no really it took me 10 minutes cause I had to write down the data 😂)
+Of course with a limited time of 3 hours, the architecture and good practices weren't my priority.
+However, the application does not have any mocked data and the data of the stories, images, profile pictures etc.. are being fetch from a server!
+I used the website https://jsonbin.io to make the data from the back-end, it's powerful, fast and took me 3 seconds to get it working 🎉 (no really it took me 10 minutes cause I had to write down the data 😂)
 
 ### ⚙️ Contributing
 
