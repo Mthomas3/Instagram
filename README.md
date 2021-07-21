@@ -24,4 +24,4 @@ You're **more than welcome** to try this challenge as well and see where you can
 
 ### 👽 Author
 
-I’m *Thomas Martins* iOS developer , ping me there if you wanna be **BFF** ->  [ThomasMartins](https://www.linkedin.com/in/thomas-martins-0343b1b7/) for any question.
+I’m *Thomas Martins* iOS developer , ping me there if you wanna be **BFF** ->  [ThomasMartins](https://www.linkedin.com/in/thomas-martins-0343b1b7/)
